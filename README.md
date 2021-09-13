@@ -1,1 +1,3 @@
-# api-homework
+# API Homework
+
+For this assignment, I wrote code that utlizes two APIs to pull current prices for two cryptocurrencies and current prices for a stock and a bond.  This data was used to conduct an analysis of savings for members of a fictional credit union.  After conducting the savings analysis, the code utlizes an API to pull historical stock and bond  data to run a Monte Carlo simulation to predict how well the stock and bond portfolio will do in the future.  The Monte Carlo simulation is run for 30 year, 5 year, and 10 year periods.  Each simulation includes an analysis of the probable highest and lowest possible savings after the time period for a certain initial investment.
